@@ -1,0 +1,58 @@
+.site {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.site-content {
+  flex: 1;
+}
+.titulo {
+  font-family: Nothing You Could Do;
+}
+.t1, h1 {
+  font-family: Mochiy Pop One;
+}
+
+.arriba {
+    
+  font-size:10px;
+  color:#fff;
+  cursor:pointer;
+  position: fixed;
+  bottom:20px;
+  right:20px;
+}
+header{
+  
+  background-color: #089c1cef;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  display: block;
+  font: 14px/1.3 Mochiy Pop One;
+  position: relative;
+  margin: 0 0 px;
+  padding: 0;
+}
+ 
+ 
+
+header a{
+  text-decoration: none;
+  color: #f7f6f6;
+}
+footer {
+  background-color: #089c1cef;
+  color: #fffafa;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  left:0;
+  bottom: 0;
+  width: 100%;
+}
+a{
+  color: #fff;
+}
+  
+
